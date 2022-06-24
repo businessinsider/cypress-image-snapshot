@@ -25,7 +25,7 @@
     "fs-extra": "^10.1.0",
     "glob": "^8.0.3",
     "jest-image-snapshot": "5.1.0",
-    "pkg-dir": "^6.0.1"
+    "pkg-dir": "^3.0.0"
   },
   "devDependencies": {
     "@changesets/changelog-github": "^0.4.5",
